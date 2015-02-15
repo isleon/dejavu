@@ -1,8 +1,8 @@
 {
     "database": {
-        "host": "127.0.0.1",
-        "user": "root",
-        "passwd": "", 
+        "host": "10.16.102.80",
+        "user": "inmusic",
+        "passwd": "8ab058c4c6f75e98774acc39783477de", 
         "db": "dejavu"
     }
 }
